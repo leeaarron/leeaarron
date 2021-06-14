@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leeaarron 
-- 🌱 I’m currently learing Python and Mern stacks
+- 🌱 I’m currently learning Python and Mern stacks
 - 👀 Coding Bootcamp student
 - 💞️ I’m looking to connect with other bootcamp students, self-taught developers, and aspiring developers
 - 📫 leeaarronl@gmail.com 
