@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leeaarron 
 - 🌱 I’m currently learning Python and Mern stacks
-- 👀 Coding Bootcamp student
+- 👀 Coding Bootcamp alumni
 - 📫 leeaarronl@gmail.com 
 
 <!---
