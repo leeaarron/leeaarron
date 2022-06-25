@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leeaarron 
-- 🌱 I’m currently learning Python and Mern stacks
+- 🌱 Full stack web dev - Python, Flask, MySQL and React, Nodejs, Express, MongoDB
 - 👀 Coding Bootcamp alumni
 - 📫 leeaarronl@gmail.com 
 
